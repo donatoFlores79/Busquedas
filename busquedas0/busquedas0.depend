@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696307254 source:d:\3sem\seminario estructuras de datos 1\busquedas0\cola.cpp
+	"Cola.h"
+
+1696308372 d:\3sem\seminario estructuras de datos 1\busquedas0\cola.h
+	"constancia.h"
+
+1696307388 d:\3sem\seminario estructuras de datos 1\busquedas0\constancia.h
+	<iostream>
+	<string>
+
+1696307388 source:d:\3sem\seminario estructuras de datos 1\busquedas0\constancia.cpp
+	"constancia.h"
+
+1696307868 source:d:\3sem\seminario estructuras de datos 1\busquedas0\main.cpp
+	"Cola.h"
+
